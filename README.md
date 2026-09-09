@@ -174,22 +174,9 @@ lib/
 
 > **THIS APPLICATION AND SOURCE CODE ARE FOR THE SAKE OF ALLAH ALONE.**
 
-Before viewing, using, distributing, or modifying any part of this repository, you explicitly agree to the following sacred covenants:
-
-1. **100% Free to End Users**:
-   You may use, study, and redistribute this software or its logic **ONLY** in applications and services that are completely free of charge to all end users forever.
-2. **Strict Prohibition on Commercialization & Profit**:
-   You are **STRICTLY FORBIDDEN** from selling this application, placing it behind paywalls, subscription models, in-app purchases, charging download fees, monetizing it with advertisements (AdMob, Unity Ads, etc.), or extracting any financial revenue from this codebase, models, or outputs.
-3. **Perpetual Waqf Pass-Through**:
-   These terms are immutable and strictly pass on to any fork, derivative work, or redistributed component.
+e immutable and strictly pass on to any fork, derivative work, or redistributed component.
 
 ---
-
-*Alhamdulillah (الحمد لله رب العالمين)* — This project builds on research and work from the following open-source projects:
-
-- **[Zipformer Quran Streaming Model](https://huggingface.co/Quran-Lab/zipformer_p-arabic-v3)** by Brother - Mustafa 
-- **[quran-transcript](https://github.com/OmarMuhammedAli/quran-transcript)** by Brother - Abdullah Aml
-- **[Quranic Universal Aligner (qua_sdk)](https://huggingface.co/spaces/hetchyy/quranic-universal-aligner)** by Brother - Ahmad Ibrahim
 
 ---
 
